@@ -3,7 +3,7 @@
 <br>
 ** THIS IS NOT THE OFFICIAL SOURCE AND IS OUTDATED! **
 <hr>
-This is the source code to Slow Roads. I looked through the code and developer console and downloaded the code and all dependancies.
+This is the source code to Slow Roadsi. I looked through the code and developer console and downloaded the code and all dependancies.
 <br>
 Visit the full preview at roberttbs.github.io/slowroads
 <br>
